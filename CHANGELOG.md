@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/statflo/textkit-widget-events/compare/v1.0.0...v1.1.0) (2022-04-06)
+
+
+### Features
+
+* upgrading to 1.1.0 ([a3aff94](https://github.com/statflo/textkit-widget-events/commit/a3aff948b27726f322fdfd8357c817bdb4c48f7a))
+
 # 1.0.0 (2022-04-06)
 
 # Changelog
