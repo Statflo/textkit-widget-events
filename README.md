@@ -1,6 +1,4 @@
-![TextKit by Statflo](./assets/logo-dark.svg#gh-dark-mode-only)
-![TextKit by Statflo](./assets/logo-light.svg#gh-light-mode-only)
-
+![TextKit by Statflo](./assets/textkit-logo.svg)
 # TextKit Widget Events
 
 This package defines all the available events within the TextKit platform this package extends the [Widget SDK](https://github.com/statflo/widget-sdk) package. We export all the functionality from that package along with our implementation of it. 
