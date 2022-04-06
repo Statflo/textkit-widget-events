@@ -1,3 +1,5 @@
+# 1.0.0 (2022-04-06)
+
 # Changelog
 All notable changes to this project will be documented in this file.
 
