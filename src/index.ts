@@ -40,6 +40,11 @@ export enum WidgetViewSize {
   Small = 'Small',
 }
 
+export enum DebugLogLevel {
+  None = 'none',
+  Debug = 'debug',
+}
+
 const ContainerEvents = {
   activeConversationChanged: 'active_conversation_changed',
 };

@@ -3,6 +3,7 @@ import * as SDK from '@statflo/widget-sdk';
 import * as Package from '../src';
 import {
   createWidgetState,
+  DebugLogLevel,
   EventNames,
   WidgetState,
   WidgetViewSize,
@@ -17,5 +18,6 @@ describe('package exports', () => {
     expect(Package.WidgetViewSize).toEqual(WidgetViewSize);
     expect(Package.EventNames).toEqual(EventNames);
     expect(Package.createWidgetState).toEqual(createWidgetState);
+    expect(Package.DebugLogLevel).toEqual(DebugLogLevel);
   });
 });

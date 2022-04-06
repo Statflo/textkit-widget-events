@@ -146,3 +146,27 @@ import { WidgetViewSize } from '@statflo/textkit-widget-events'
 - Large
 - Medium
 - Small
+
+## Debug Log 
+
+**Usage**
+
+```javascript
+import { DebugLogLevel } from '@statflo/textkit-widget-events'
+```
+
+**Enm values**
+
+- None
+- Debug
+
+**Example**
+
+```javascript
+import { DebugLogLevel, ContainerClient } from '@statflo/textkit-widget-events';
+
+export const widgetContainerClient = new ContainerClient({
+  logs: DebugLogLevel.None,
+  window,
+});
+```
