@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/statflo/textkit-widget-events/compare/v1.2.0...v1.3.0) (2022-04-06)
+
+
+### Features
+
+* adding debug enum and updated README.md ([cfd04e7](https://github.com/statflo/textkit-widget-events/commit/cfd04e7fcfae83c4558d99a36b9a7cfbd8fecb8e))
+
 # [1.2.0](https://github.com/statflo/textkit-widget-events/compare/v1.1.0...v1.2.0) (2022-04-06)
 
 
