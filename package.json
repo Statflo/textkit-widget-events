@@ -76,7 +76,7 @@
       [
         "@semantic-release/changelog",
         {
-          "changelogTitle": "Changelog",
+          "changelogTitle": "# Changelog",
           "changelogFile": "CHANGELOG.md"
         }
       ],
