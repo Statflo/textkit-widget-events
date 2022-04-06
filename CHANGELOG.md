@@ -1,3 +1,12 @@
+# Changelog
+
+## [1.3.2](https://github.com/statflo/textkit-widget-events/compare/v1.3.1...v1.3.2) (2022-04-06)
+
+
+### Bug Fixes
+
+* updated changelog title ([4423c7c](https://github.com/statflo/textkit-widget-events/commit/4423c7ca1dfc0f9683e5ca99685f45a6c27dc0c7))
+
 Changelog
 
 ## [1.3.1](https://github.com/statflo/textkit-widget-events/compare/v1.3.0...v1.3.1) (2022-04-06)
