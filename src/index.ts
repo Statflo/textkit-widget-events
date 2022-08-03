@@ -6,6 +6,7 @@ export enum WidgetType {
   Action = 'Action',
   Timeline = 'Timeline',
   Sendable = 'Sendable',
+  Module = 'Module',
 }
 
 export enum WidgetScope {
@@ -47,6 +48,7 @@ export enum DebugLogLevel {
 
 const ContainerEvents = {
   activeConversationChanged: 'active_conversation_changed',
+  appContextChanged: 'app_context_changed',
 };
 
 const WidgetEvents = {

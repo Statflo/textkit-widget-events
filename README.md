@@ -68,6 +68,8 @@ import { EventNames } from '@statflo/textkit-widget-events'
 
 `EventNames.container.activeConversationChanged`: This event will include context data when a conversation changes within TextKit so you can know with whom you are speaking to.
 
+`EventNames.container.appContextChanged`: This event will include context data about the app session.
+
 ## Widget Types
 
 **Usage**
